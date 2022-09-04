@@ -1,4 +1,4 @@
-name: "Auto Close Not Following Template Issue"
+name: "Auto Close Not Following Template Issue1"
 on:
   issues:
     types: [opened, edited]
